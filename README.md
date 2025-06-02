@@ -1,19 +1,12 @@
-# driver-drowsiness-detection-system
+# DRIVER-DROWSINESS-DETECTION-SYSTEM
 ##  PROBLEM STATEMENT
-The driver drowsiness detection system addresses several significant problems related to drowsy driving, including:
-Drowsy driving contributes to a significant number of road accidents each year. Drivers who are fatigued or drowsy have slower reaction times, impaired judgment, and decreased awareness, increasing the likelihood of collisions, injuries, and fatalities.
-Accidents caused by drowsy driving can result in severe injuries or fatalities for drivers, passengers, pedestrians, and other road users. These accidents often have devastating consequences for individuals and families affected by the loss or injury of a loved one.
-Drowsy driving accidents incur substantial economic costs, including medical expenses, property damage, lost productivity, legal fees, and insurance claims. These costs burden individuals, businesses, and society as a whole, impacting economic productivity and well-being.
-Drowsy driving accidents can lead to legal consequences for drivers, including citations, fines, license suspension, and civil lawsuits. Moreover, there are regulatory challenges in enforcing laws and regulations related to drowsy driving, as it can be difficult to detect and prove drowsiness as a contributing factor in accidents.
-
+The Driver Drowsiness Detection System tackles the serious issue of fatigue-related road accidents by alerting drivers when signs of drowsiness are detected. Drowsy driving leads to slower reaction times and impaired judgment, increasing the risk of collisions and fatalities. These accidents not only cause emotional and physical harm but also result in economic and legal consequences. The system helps enhance road safety by preventing such incidents before they occur.
 
 ## OBJECTIVE OF THE INVENTION 
- Our invention aims to revolutionize road safety by addressing the critical issue of drowsy driving through an innovative driver drowsiness detection system. At its core, our objective is clear: to create a solution that effectively detects signs of driver drowsiness and alerts them promptly, preventing potential accidents and saving lives.By integrating eyeblink sensors into various types of eyewear, including spectacles and sunglasses, our invention provides a discreet and convenient way to monitor the driver's alertness levels in real-time. This continuous monitoring allows our system to detect subtle changes in blinking patterns, a key indicator of drowsiness or fatigue.One of our primary goals is to enhance driver awareness of their own alertness levels. By providing timely alerts when signs of drowsiness are detected, we empower drivers to take proactive measures to combat fatigue, such as taking a break or switching drivers if necessary.
-
- Accessibility is also a key consideration in our design. We aim to create a system that is easy to wear and adaptable to different preferences and needs. Whether someone wears prescription glasses or prefers sunglasses, our solution can be seamlessly integrated into their eyewear of choice.Accessibility is also a key consideration in our design. We aim to create a system that is easy to wear and adaptable to different preferences and needs. Whether someone wears prescription glasses or prefers sunglasses, our solution can be seamlessly integrated into their eyewear of choice.Moreover, we prioritize affordability without compromising on performance. By utilizing cost-effective components and simple yet effective technology, we ensure that our invention is accessible to a wide range of users, regardless of their budget constraints.Ultimately, our overarching objective is to improve road safety by reducing the incidence of accidents caused by drowsy driving. By achieving this goal, we aim to make a tangible and positive impact on society, saving lives and preventing injuries on the road.
+ Our invention aims to enhance road safety by detecting and alerting drivers to signs of drowsiness using an innovative eyewear-based system. By integrating eyeblink sensors into spectacles or sunglasses, it discreetly monitors alertness in real time and provides timely warnings to prevent accidents. Designed for comfort, affordability, and accessibility, the system empowers drivers to recognize fatigue early and take necessary precautions ultimately helping to reduce drowsy driving incidents and save lives.
 
 ## BLOCK DIAGRAM
-![CIRCUIT DIAGRAM](https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/d2a7749d-591e-4176-aa13-46168cf4e926)
+![image](https://github.com/user-attachments/assets/10e8a7be-0ade-443f-bdb9-e9017a19b397)
 
 ## HARDWARE AND SOFTWARE REQUIREMENTS
 ### HARDWARE
@@ -34,9 +27,5 @@ Additionally, by integrating this system into spectacles, you're making it acces
 
 
 ## PROTOTYPE
-
-![WhatsApp Image 2024-05-25 at 6 03 58 PM](https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/5c292161-504c-4b23-8180-66a5bf07d99e)
-
-![WhatsApp Image 2024-05-25 at 6 03 44 PM](https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/4fd54c86-db97-488d-a08f-ae61d9033003)
 
 
