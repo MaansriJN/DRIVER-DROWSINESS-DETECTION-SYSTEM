@@ -27,5 +27,5 @@ Integrating the system into eyewear such as spectacles makes it both practical a
 
 
 ## PROTOTYPE
+![image](https://github.com/user-attachments/assets/ed1e4fdb-fd79-46ea-a6c9-bed66909cc7a)
 
-![image](https://github.com/user-attachments/assets/639cf590-3841-4200-9229-e41fe2adeef9)
