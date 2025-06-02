@@ -21,11 +21,13 @@ The Driver Drowsiness Detection System tackles the serious issue of fatigue-rela
 * Arduino IDE
 
 ## EXPLANATION
-  The driver drowsiness detection system, addresses the critical issue of drowsy driving, which is a major cause of accidents on the road. By using sensors to detect signs of drowsiness in the driver, such as closed eyes or changes in head position indicative of nodding off, your system can alert the driver before a potential accident occurs.
-The incorporation of a vibration mechanism near the ear ensures that the alert is immediate and targeted, as it directly wakes up the driver without causing distractions to other passengers or nearby vehicles. This approach is particularly effective because it leverages the sense of touch, which can quickly rouse a drowsy individual from sleep.
-Additionally, by integrating this system into spectacles, you're making it accessible and convenient for all drivers to use, regardless of their vehicle type or driving conditions. This ease of use enhances the system's effectiveness and encourages widespread adoption, ultimately contributing to a reduction in drowsy driving accidents and improving overall road safety.
+  The Driver Drowsiness Detection System tackles the serious problem of fatigue-related driving, a leading cause of road accidents. By utilizing sensors to monitor indicators like prolonged eye closure and subtle head movements that suggest sleepiness, the system can issue timely alerts to prevent potential collisions.
+A vibration module positioned near the ear delivers immediate and focused feedback, effectively waking the driver without disturbing passengers or nearby driver an efficient use of tactile stimulation to regain attention.
+Integrating the system into eyewear such as spectacles makes it both practical and widely accessible, regardless of the vehicle type or driving environment. This user-friendly design encourages broad usage and plays a crucial role in reducing fatigue-induced accidents, thereby enhancing overall road safety.
 
 
 ## PROTOTYPE
 
+![image](https://github.com/user-attachments/assets/639cf590-3841-4200-9229-e41fe2adeef9)
+![image](https://github.com/user-attachments/assets/8f8b353a-a4ab-4d6f-aced-2365aedd1f2d)
 
